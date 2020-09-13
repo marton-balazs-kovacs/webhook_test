@@ -17011,3 +17011,5 @@ simulation,part_433,exp_3,3,lab_2,8,live,yes,no,18-29,Female,yes,Definitely Does
 simulation,part_433,exp_3,3,lab_2,8,live,yes,no,18-29,Female,yes,Definitely Does not,Probably yes,Regurarly in the past,very untrue,untrue,22,right,left,neutral,FALSE,17010
 simulation,part_433,exp_3,3,lab_2,8,live,yes,no,18-29,Female,yes,Definitely Does not,Probably yes,Regurarly in the past,very untrue,untrue,23,right,left,erotic,FALSE,17011
 simulation,part_433,exp_3,3,lab_2,8,live,yes,no,18-29,Female,yes,Definitely Does not,Probably yes,Regurarly in the past,very untrue,untrue,24,right,right,neutral,TRUE,17012
+simulation,part_433,exp_3,3,lab_2,8,live,yes,no,18-29,Female,yes,Definitely Does not,Probably yes,Regurarly in the past,very untrue,untrue,25,right,right,erotic,TRUE,17013
+simulation,part_433,exp_3,3,lab_2,8,live,yes,no,18-29,Female,yes,Definitely Does not,Probably yes,Regurarly in the past,very untrue,untrue,26,left,right,erotic,FALSE,17014
