@@ -17029,3 +17029,5 @@ simulation,part_434,exp_10,10,lab_5,1,live,yes,no,18-29,Female,NA,NA,NA,NA,NA,NA
 simulation,part_434,exp_10,10,lab_5,1,live,yes,no,18-29,Female,yes,Definitely does,Definitely no,Occasionally,NA,NA,NA,NA,NA,NA,NA,17028
 simulation,part_434,exp_10,10,lab_5,1,live,yes,no,18-29,Female,yes,Definitely does,Definitely no,Occasionally,between true and untrue,very untrue,NA,NA,NA,NA,NA,17029
 simulation,part_434,exp_10,10,lab_5,1,live,yes,no,18-29,Female,yes,Definitely does,Definitely no,Occasionally,between true and untrue,very untrue,1,right,right,neutral,TRUE,17030
+simulation,part_434,exp_10,10,lab_5,1,live,yes,no,18-29,Female,yes,Definitely does,Definitely no,Occasionally,between true and untrue,very untrue,2,right,left,erotic,FALSE,17031
+simulation,part_434,exp_10,10,lab_5,1,live,yes,no,18-29,Female,yes,Definitely does,Definitely no,Occasionally,between true and untrue,very untrue,3,left,right,neutral,FALSE,17032
