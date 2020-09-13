@@ -17067,3 +17067,5 @@ simulation,part_434,exp_10,10,lab_5,1,live,yes,no,18-29,Female,yes,Definitely do
 simulation,part_435,exp_6,6,lab_3,5,live,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,17066
 simulation,part_435,exp_6,6,lab_3,5,live,yes,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,17067
 simulation,part_435,exp_6,6,lab_3,5,live,yes,no,18-29,Male,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,17068
+simulation,part_435,exp_6,6,lab_3,5,live,yes,no,18-29,Male,yes,Definitely Does not,Don't know,Regurarly no,NA,NA,NA,NA,NA,NA,NA,17069
+simulation,part_435,exp_6,6,lab_3,5,live,yes,no,18-29,Male,yes,Definitely Does not,Don't know,Regurarly no,between true and untrue,true,NA,NA,NA,NA,NA,17070
