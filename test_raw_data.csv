@@ -17091,3 +17091,5 @@ simulation,part_435,exp_6,6,lab_3,5,live,yes,no,18-29,Male,yes,Definitely Does n
 simulation,part_435,exp_6,6,lab_3,5,live,yes,no,18-29,Male,yes,Definitely Does not,Don't know,Regurarly no,between true and untrue,true,20,right,left,neutral,FALSE,17090
 simulation,part_435,exp_6,6,lab_3,5,live,yes,no,18-29,Male,yes,Definitely Does not,Don't know,Regurarly no,between true and untrue,true,21,left,right,erotic,FALSE,17091
 simulation,part_435,exp_6,6,lab_3,5,live,yes,no,18-29,Male,yes,Definitely Does not,Don't know,Regurarly no,between true and untrue,true,22,left,right,erotic,FALSE,17092
+simulation,part_435,exp_6,6,lab_3,5,live,yes,no,18-29,Male,yes,Definitely Does not,Don't know,Regurarly no,between true and untrue,true,23,left,left,erotic,TRUE,17093
+simulation,part_435,exp_6,6,lab_3,5,live,yes,no,18-29,Male,yes,Definitely Does not,Don't know,Regurarly no,between true and untrue,true,24,right,right,neutral,TRUE,17094
