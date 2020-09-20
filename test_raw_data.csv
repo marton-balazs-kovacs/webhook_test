@@ -17149,3 +17149,53 @@ simulation,part_436,exp_2,2,lab_1,9,live,yes,no,30-44,Female,yes,Definitely Does
 simulation,part_437,exp_6,6,lab_3,5,live,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,17148
 simulation,part_437,exp_6,6,lab_3,5,live,no,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,17149
 simulation,part_438,exp_5,5,lab_3,6,live,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,17150
+simulation,part_438,exp_5,5,lab_3,6,live,yes,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,17151
+simulation,part_438,exp_5,5,lab_3,6,live,yes,no,30-44,Female,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,17152
+simulation,part_438,exp_5,5,lab_3,6,live,yes,no,30-44,Female,yes,Don't know,Probably yes,Only a few times,NA,NA,NA,NA,NA,NA,NA,17153
+simulation,part_438,exp_5,5,lab_3,6,live,yes,no,30-44,Female,yes,Don't know,Probably yes,Only a few times,between true and untrue,untrue,NA,NA,NA,NA,NA,17154
+simulation,part_438,exp_5,5,lab_3,6,live,yes,no,30-44,Female,yes,Don't know,Probably yes,Only a few times,between true and untrue,untrue,1,left,right,neutral,FALSE,17155
+simulation,part_438,exp_5,5,lab_3,6,live,yes,no,30-44,Female,yes,Don't know,Probably yes,Only a few times,between true and untrue,untrue,2,left,left,neutral,TRUE,17156
+simulation,part_438,exp_5,5,lab_3,6,live,yes,no,30-44,Female,yes,Don't know,Probably yes,Only a few times,between true and untrue,untrue,3,right,left,erotic,FALSE,17157
+simulation,part_438,exp_5,5,lab_3,6,live,yes,no,30-44,Female,yes,Don't know,Probably yes,Only a few times,between true and untrue,untrue,4,right,left,erotic,FALSE,17158
+simulation,part_438,exp_5,5,lab_3,6,live,yes,no,30-44,Female,yes,Don't know,Probably yes,Only a few times,between true and untrue,untrue,5,left,right,erotic,FALSE,17159
+simulation,part_438,exp_5,5,lab_3,6,live,yes,no,30-44,Female,yes,Don't know,Probably yes,Only a few times,between true and untrue,untrue,6,right,left,erotic,FALSE,17160
+simulation,part_438,exp_5,5,lab_3,6,live,yes,no,30-44,Female,yes,Don't know,Probably yes,Only a few times,between true and untrue,untrue,7,left,right,neutral,FALSE,17161
+simulation,part_438,exp_5,5,lab_3,6,live,yes,no,30-44,Female,yes,Don't know,Probably yes,Only a few times,between true and untrue,untrue,8,left,right,neutral,FALSE,17162
+simulation,part_438,exp_5,5,lab_3,6,live,yes,no,30-44,Female,yes,Don't know,Probably yes,Only a few times,between true and untrue,untrue,9,right,left,neutral,FALSE,17163
+simulation,part_438,exp_5,5,lab_3,6,live,yes,no,30-44,Female,yes,Don't know,Probably yes,Only a few times,between true and untrue,untrue,10,right,left,neutral,FALSE,17164
+simulation,part_438,exp_5,5,lab_3,6,live,yes,no,30-44,Female,yes,Don't know,Probably yes,Only a few times,between true and untrue,untrue,11,right,right,erotic,TRUE,17165
+simulation,part_438,exp_5,5,lab_3,6,live,yes,no,30-44,Female,yes,Don't know,Probably yes,Only a few times,between true and untrue,untrue,12,left,left,neutral,TRUE,17166
+simulation,part_438,exp_5,5,lab_3,6,live,yes,no,30-44,Female,yes,Don't know,Probably yes,Only a few times,between true and untrue,untrue,13,right,left,neutral,FALSE,17167
+simulation,part_438,exp_5,5,lab_3,6,live,yes,no,30-44,Female,yes,Don't know,Probably yes,Only a few times,between true and untrue,untrue,14,right,right,erotic,TRUE,17168
+simulation,part_438,exp_5,5,lab_3,6,live,yes,no,30-44,Female,yes,Don't know,Probably yes,Only a few times,between true and untrue,untrue,15,left,left,neutral,TRUE,17169
+simulation,part_438,exp_5,5,lab_3,6,live,yes,no,30-44,Female,yes,Don't know,Probably yes,Only a few times,between true and untrue,untrue,16,left,right,erotic,FALSE,17170
+simulation,part_438,exp_5,5,lab_3,6,live,yes,no,30-44,Female,yes,Don't know,Probably yes,Only a few times,between true and untrue,untrue,17,left,left,neutral,TRUE,17171
+simulation,part_438,exp_5,5,lab_3,6,live,yes,no,30-44,Female,yes,Don't know,Probably yes,Only a few times,between true and untrue,untrue,18,left,right,erotic,FALSE,17172
+simulation,part_438,exp_5,5,lab_3,6,live,yes,no,30-44,Female,yes,Don't know,Probably yes,Only a few times,between true and untrue,untrue,19,right,left,erotic,FALSE,17173
+simulation,part_438,exp_5,5,lab_3,6,live,yes,no,30-44,Female,yes,Don't know,Probably yes,Only a few times,between true and untrue,untrue,20,left,right,neutral,FALSE,17174
+simulation,part_438,exp_5,5,lab_3,6,live,yes,no,30-44,Female,yes,Don't know,Probably yes,Only a few times,between true and untrue,untrue,21,right,left,neutral,FALSE,17175
+simulation,part_438,exp_5,5,lab_3,6,live,yes,no,30-44,Female,yes,Don't know,Probably yes,Only a few times,between true and untrue,untrue,22,left,left,neutral,TRUE,17176
+simulation,part_438,exp_5,5,lab_3,6,live,yes,no,30-44,Female,yes,Don't know,Probably yes,Only a few times,between true and untrue,untrue,23,right,right,erotic,TRUE,17177
+simulation,part_438,exp_5,5,lab_3,6,live,yes,no,30-44,Female,yes,Don't know,Probably yes,Only a few times,between true and untrue,untrue,24,left,left,neutral,TRUE,17178
+simulation,part_438,exp_5,5,lab_3,6,live,yes,no,30-44,Female,yes,Don't know,Probably yes,Only a few times,between true and untrue,untrue,25,left,right,erotic,FALSE,17179
+simulation,part_438,exp_5,5,lab_3,6,live,yes,no,30-44,Female,yes,Don't know,Probably yes,Only a few times,between true and untrue,untrue,26,right,right,neutral,TRUE,17180
+simulation,part_438,exp_5,5,lab_3,6,live,yes,no,30-44,Female,yes,Don't know,Probably yes,Only a few times,between true and untrue,untrue,27,right,right,neutral,TRUE,17181
+simulation,part_438,exp_5,5,lab_3,6,live,yes,no,30-44,Female,yes,Don't know,Probably yes,Only a few times,between true and untrue,untrue,28,right,left,erotic,FALSE,17182
+simulation,part_438,exp_5,5,lab_3,6,live,yes,no,30-44,Female,yes,Don't know,Probably yes,Only a few times,between true and untrue,untrue,29,right,left,neutral,FALSE,17183
+simulation,part_438,exp_5,5,lab_3,6,live,yes,no,30-44,Female,yes,Don't know,Probably yes,Only a few times,between true and untrue,untrue,30,left,left,erotic,TRUE,17184
+simulation,part_438,exp_5,5,lab_3,6,live,yes,no,30-44,Female,yes,Don't know,Probably yes,Only a few times,between true and untrue,untrue,31,right,left,neutral,FALSE,17185
+simulation,part_438,exp_5,5,lab_3,6,live,yes,no,30-44,Female,yes,Don't know,Probably yes,Only a few times,between true and untrue,untrue,32,left,left,erotic,TRUE,17186
+simulation,part_438,exp_5,5,lab_3,6,live,yes,no,30-44,Female,yes,Don't know,Probably yes,Only a few times,between true and untrue,untrue,33,left,left,erotic,TRUE,17187
+simulation,part_438,exp_5,5,lab_3,6,live,yes,no,30-44,Female,yes,Don't know,Probably yes,Only a few times,between true and untrue,untrue,34,left,left,erotic,TRUE,17188
+simulation,part_438,exp_5,5,lab_3,6,live,yes,no,30-44,Female,yes,Don't know,Probably yes,Only a few times,between true and untrue,untrue,35,right,right,erotic,TRUE,17189
+simulation,part_438,exp_5,5,lab_3,6,live,yes,no,30-44,Female,yes,Don't know,Probably yes,Only a few times,between true and untrue,untrue,36,left,left,erotic,TRUE,17190
+simulation,part_439,exp_9,9,lab_5,2,live,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,17191
+simulation,part_439,exp_9,9,lab_5,2,live,no,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,17192
+simulation,part_440,exp_9,9,lab_5,2,live,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,17193
+simulation,part_440,exp_9,9,lab_5,2,live,yes,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,17194
+simulation,part_440,exp_9,9,lab_5,2,live,yes,no,30-44,Male,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,17195
+simulation,part_440,exp_9,9,lab_5,2,live,yes,no,30-44,Male,yes,Probably does not,Definitely no,Regurarly no,NA,NA,NA,NA,NA,NA,NA,17196
+simulation,part_440,exp_9,9,lab_5,2,live,yes,no,30-44,Male,yes,Probably does not,Definitely no,Regurarly no,very untrue,between true and untrue,NA,NA,NA,NA,NA,17197
+simulation,part_440,exp_9,9,lab_5,2,live,yes,no,30-44,Male,yes,Probably does not,Definitely no,Regurarly no,very untrue,between true and untrue,1,left,right,neutral,FALSE,17198
+simulation,part_440,exp_9,9,lab_5,2,live,yes,no,30-44,Male,yes,Probably does not,Definitely no,Regurarly no,very untrue,between true and untrue,2,right,left,neutral,FALSE,17199
+simulation,part_440,exp_9,9,lab_5,2,live,yes,no,30-44,Male,yes,Probably does not,Definitely no,Regurarly no,very untrue,between true and untrue,3,left,left,neutral,TRUE,17200
