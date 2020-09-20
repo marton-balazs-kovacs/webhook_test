@@ -17249,3 +17249,53 @@ simulation,part_441,exp_9,9,lab_5,2,live,yes,no,18-29,Male,yes,Definitely Does n
 simulation,part_441,exp_9,9,lab_5,2,live,yes,no,18-29,Male,yes,Definitely Does not,Don't know,"No, never",very untrue,true,10,left,left,neutral,TRUE,17248
 simulation,part_441,exp_9,9,lab_5,2,live,yes,no,18-29,Male,yes,Definitely Does not,Don't know,"No, never",very untrue,true,11,left,right,erotic,FALSE,17249
 simulation,part_441,exp_9,9,lab_5,2,live,yes,no,18-29,Male,yes,Definitely Does not,Don't know,"No, never",very untrue,true,12,left,right,erotic,FALSE,17250
+simulation,part_441,exp_9,9,lab_5,2,live,yes,no,18-29,Male,yes,Definitely Does not,Don't know,"No, never",very untrue,true,13,left,left,erotic,TRUE,17251
+simulation,part_441,exp_9,9,lab_5,2,live,yes,no,18-29,Male,yes,Definitely Does not,Don't know,"No, never",very untrue,true,14,right,right,neutral,TRUE,17252
+simulation,part_441,exp_9,9,lab_5,2,live,yes,no,18-29,Male,yes,Definitely Does not,Don't know,"No, never",very untrue,true,15,right,right,neutral,TRUE,17253
+simulation,part_441,exp_9,9,lab_5,2,live,yes,no,18-29,Male,yes,Definitely Does not,Don't know,"No, never",very untrue,true,16,right,right,erotic,TRUE,17254
+simulation,part_441,exp_9,9,lab_5,2,live,yes,no,18-29,Male,yes,Definitely Does not,Don't know,"No, never",very untrue,true,17,right,left,erotic,FALSE,17255
+simulation,part_441,exp_9,9,lab_5,2,live,yes,no,18-29,Male,yes,Definitely Does not,Don't know,"No, never",very untrue,true,18,left,left,neutral,TRUE,17256
+simulation,part_441,exp_9,9,lab_5,2,live,yes,no,18-29,Male,yes,Definitely Does not,Don't know,"No, never",very untrue,true,19,left,right,neutral,FALSE,17257
+simulation,part_441,exp_9,9,lab_5,2,live,yes,no,18-29,Male,yes,Definitely Does not,Don't know,"No, never",very untrue,true,20,left,left,neutral,TRUE,17258
+simulation,part_441,exp_9,9,lab_5,2,live,yes,no,18-29,Male,yes,Definitely Does not,Don't know,"No, never",very untrue,true,21,left,right,neutral,FALSE,17259
+simulation,part_441,exp_9,9,lab_5,2,live,yes,no,18-29,Male,yes,Definitely Does not,Don't know,"No, never",very untrue,true,22,left,left,erotic,TRUE,17260
+simulation,part_441,exp_9,9,lab_5,2,live,yes,no,18-29,Male,yes,Definitely Does not,Don't know,"No, never",very untrue,true,23,left,left,neutral,TRUE,17261
+simulation,part_441,exp_9,9,lab_5,2,live,yes,no,18-29,Male,yes,Definitely Does not,Don't know,"No, never",very untrue,true,24,right,left,erotic,FALSE,17262
+simulation,part_441,exp_9,9,lab_5,2,live,yes,no,18-29,Male,yes,Definitely Does not,Don't know,"No, never",very untrue,true,25,right,right,erotic,TRUE,17263
+simulation,part_441,exp_9,9,lab_5,2,live,yes,no,18-29,Male,yes,Definitely Does not,Don't know,"No, never",very untrue,true,26,left,left,erotic,TRUE,17264
+simulation,part_441,exp_9,9,lab_5,2,live,yes,no,18-29,Male,yes,Definitely Does not,Don't know,"No, never",very untrue,true,27,right,left,neutral,FALSE,17265
+simulation,part_441,exp_9,9,lab_5,2,live,yes,no,18-29,Male,yes,Definitely Does not,Don't know,"No, never",very untrue,true,28,left,left,erotic,TRUE,17266
+simulation,part_441,exp_9,9,lab_5,2,live,yes,no,18-29,Male,yes,Definitely Does not,Don't know,"No, never",very untrue,true,29,left,left,erotic,TRUE,17267
+simulation,part_441,exp_9,9,lab_5,2,live,yes,no,18-29,Male,yes,Definitely Does not,Don't know,"No, never",very untrue,true,30,right,left,neutral,FALSE,17268
+simulation,part_441,exp_9,9,lab_5,2,live,yes,no,18-29,Male,yes,Definitely Does not,Don't know,"No, never",very untrue,true,31,right,left,erotic,FALSE,17269
+simulation,part_441,exp_9,9,lab_5,2,live,yes,no,18-29,Male,yes,Definitely Does not,Don't know,"No, never",very untrue,true,32,left,left,erotic,TRUE,17270
+simulation,part_441,exp_9,9,lab_5,2,live,yes,no,18-29,Male,yes,Definitely Does not,Don't know,"No, never",very untrue,true,33,left,right,neutral,FALSE,17271
+simulation,part_441,exp_9,9,lab_5,2,live,yes,no,18-29,Male,yes,Definitely Does not,Don't know,"No, never",very untrue,true,34,left,right,erotic,FALSE,17272
+simulation,part_441,exp_9,9,lab_5,2,live,yes,no,18-29,Male,yes,Definitely Does not,Don't know,"No, never",very untrue,true,35,left,right,neutral,FALSE,17273
+simulation,part_441,exp_9,9,lab_5,2,live,yes,no,18-29,Male,yes,Definitely Does not,Don't know,"No, never",very untrue,true,36,left,left,neutral,TRUE,17274
+simulation,part_442,exp_8,8,lab_4,3,live,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,17275
+simulation,part_442,exp_8,8,lab_4,3,live,yes,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,17276
+simulation,part_442,exp_8,8,lab_4,3,live,yes,no,30-44,Male,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,17277
+simulation,part_442,exp_8,8,lab_4,3,live,yes,no,30-44,Male,yes,Definitely Does not,Probably no,Only a few times,NA,NA,NA,NA,NA,NA,NA,17278
+simulation,part_442,exp_8,8,lab_4,3,live,yes,no,30-44,Male,yes,Definitely Does not,Probably no,Only a few times,very untrue,untrue,NA,NA,NA,NA,NA,17279
+simulation,part_442,exp_8,8,lab_4,3,live,yes,no,30-44,Male,yes,Definitely Does not,Probably no,Only a few times,very untrue,untrue,1,right,left,erotic,FALSE,17280
+simulation,part_442,exp_8,8,lab_4,3,live,yes,no,30-44,Male,yes,Definitely Does not,Probably no,Only a few times,very untrue,untrue,2,left,right,neutral,FALSE,17281
+simulation,part_442,exp_8,8,lab_4,3,live,yes,no,30-44,Male,yes,Definitely Does not,Probably no,Only a few times,very untrue,untrue,3,right,right,neutral,TRUE,17282
+simulation,part_442,exp_8,8,lab_4,3,live,yes,no,30-44,Male,yes,Definitely Does not,Probably no,Only a few times,very untrue,untrue,4,left,left,neutral,TRUE,17283
+simulation,part_442,exp_8,8,lab_4,3,live,yes,no,30-44,Male,yes,Definitely Does not,Probably no,Only a few times,very untrue,untrue,5,left,right,neutral,FALSE,17284
+simulation,part_442,exp_8,8,lab_4,3,live,yes,no,30-44,Male,yes,Definitely Does not,Probably no,Only a few times,very untrue,untrue,6,right,left,neutral,FALSE,17285
+simulation,part_442,exp_8,8,lab_4,3,live,yes,no,30-44,Male,yes,Definitely Does not,Probably no,Only a few times,very untrue,untrue,7,left,right,erotic,FALSE,17286
+simulation,part_442,exp_8,8,lab_4,3,live,yes,no,30-44,Male,yes,Definitely Does not,Probably no,Only a few times,very untrue,untrue,8,right,right,neutral,TRUE,17287
+simulation,part_442,exp_8,8,lab_4,3,live,yes,no,30-44,Male,yes,Definitely Does not,Probably no,Only a few times,very untrue,untrue,9,left,right,erotic,FALSE,17288
+simulation,part_442,exp_8,8,lab_4,3,live,yes,no,30-44,Male,yes,Definitely Does not,Probably no,Only a few times,very untrue,untrue,10,right,left,neutral,FALSE,17289
+simulation,part_442,exp_8,8,lab_4,3,live,yes,no,30-44,Male,yes,Definitely Does not,Probably no,Only a few times,very untrue,untrue,11,right,left,neutral,FALSE,17290
+simulation,part_442,exp_8,8,lab_4,3,live,yes,no,30-44,Male,yes,Definitely Does not,Probably no,Only a few times,very untrue,untrue,12,right,right,erotic,TRUE,17291
+simulation,part_442,exp_8,8,lab_4,3,live,yes,no,30-44,Male,yes,Definitely Does not,Probably no,Only a few times,very untrue,untrue,13,left,left,erotic,TRUE,17292
+simulation,part_442,exp_8,8,lab_4,3,live,yes,no,30-44,Male,yes,Definitely Does not,Probably no,Only a few times,very untrue,untrue,14,left,right,neutral,FALSE,17293
+simulation,part_442,exp_8,8,lab_4,3,live,yes,no,30-44,Male,yes,Definitely Does not,Probably no,Only a few times,very untrue,untrue,15,left,right,erotic,FALSE,17294
+simulation,part_442,exp_8,8,lab_4,3,live,yes,no,30-44,Male,yes,Definitely Does not,Probably no,Only a few times,very untrue,untrue,16,left,right,erotic,FALSE,17295
+simulation,part_442,exp_8,8,lab_4,3,live,yes,no,30-44,Male,yes,Definitely Does not,Probably no,Only a few times,very untrue,untrue,17,left,right,neutral,FALSE,17296
+simulation,part_442,exp_8,8,lab_4,3,live,yes,no,30-44,Male,yes,Definitely Does not,Probably no,Only a few times,very untrue,untrue,18,right,left,erotic,FALSE,17297
+simulation,part_442,exp_8,8,lab_4,3,live,yes,no,30-44,Male,yes,Definitely Does not,Probably no,Only a few times,very untrue,untrue,19,left,left,erotic,TRUE,17298
+simulation,part_442,exp_8,8,lab_4,3,live,yes,no,30-44,Male,yes,Definitely Does not,Probably no,Only a few times,very untrue,untrue,20,left,left,erotic,TRUE,17299
+simulation,part_442,exp_8,8,lab_4,3,live,yes,no,30-44,Male,yes,Definitely Does not,Probably no,Only a few times,very untrue,untrue,21,left,right,neutral,FALSE,17300
